@@ -3,7 +3,8 @@
   "projectOwner": "olets",
   "contributorsSortAlphabetically": true,
   "files": [
-    "README.md"
+    "README.md",
+    "all-contributors.md"
   ],
   "commitConvention": "angular",
   "contributorsPerLine": 7,
