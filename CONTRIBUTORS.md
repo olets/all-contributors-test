@@ -1,8 +1,6 @@
 # Contributors
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+![All Contributors badge](https://img.shields.io/github/all-contributors/olets/all-contributors-test?color=3b3999)
 
 This project uses [all-contributors](https://allcontributors.org). See its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
