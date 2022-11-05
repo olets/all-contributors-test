@@ -1,5 +1,21 @@
 {
   "projectName": "all-contributors-test",
   "projectOwner": "olets",
-  "contributorsSortAlphabetically": true
+  "contributorsSortAlphabetically": true,
+  "files": [
+    "README.md"
+  ],
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "olets",
+      "name": "Henry Bley-Vroman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3282350?v=4",
+      "profile": "http://olets.dev",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ]
 }
